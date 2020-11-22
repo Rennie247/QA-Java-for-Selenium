@@ -8,7 +8,7 @@ public class AdetolaPg12Point1 {
 
 		System.out.println("Hello Adetola");
 
-		System.out.println("I am studying software testing at BusyQA");
+		System.out.println("I am software tester ");
 	}
 
 }
